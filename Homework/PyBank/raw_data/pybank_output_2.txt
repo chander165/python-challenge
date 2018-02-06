@@ -1,0 +1,5 @@
+Total unique months :12
+Total Revenue is :36973911
+The average revenue is :429929.1976744186
+this date has the greatest change :Jul-2014 with amount $1645140
+his date has the least change :Jun-2014 with amount $-1947745
