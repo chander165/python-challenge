@@ -1,3 +1,0 @@
-Total unique months :12
-Total Revenue is :18971412
-The average revenue is :462717.3658536585
